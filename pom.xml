@@ -17,6 +17,7 @@
     <module>fraud</module>
     <module>eurika-service</module>
       <module>clients</module>
+      <module>notification</module>
   </modules>
 
   <properties>
